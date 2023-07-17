@@ -1,6 +1,8 @@
 # IMDb-Movie-Analysis-Tableau-Viz
 This repository provides Tableau visualizations for analyzing IMDb movie data. It offers interactive and visually appealing dashboards to explore and gain insights from movie metadata, ratings, and reviews available on the IMDb platform.
 
+Tableau Link:https://public.tableau.com/views/IMBDMovieRatings_16884091839810/Dashboard?:language=en-GB&:display_count=n&:origin=viz_share_link
+
 Key Features:
 
 Interactive Tableau dashboards for visualizing IMDb movie data.
